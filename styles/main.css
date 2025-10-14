@@ -18,3 +18,9 @@ h1 {
     color: darkblue;
     text-decoration: underline;
 }
+li {
+    font-style: italic;
+}
+table, th, td {
+    border-style: solid;
+}
