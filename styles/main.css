@@ -1,7 +1,20 @@
 h2 {
-    color:darkgreen;
+    color:#250902;
 }
 h1:hover {
-    color:brown;
+    color:#ede0d4;
+    text-decoration: underline;
+}
+body {
+    background-color:#ede0d4;
+}
+h1 {
+    background-color: #7f5539;
+}
+.links {
+    color: #03071e
+}
+.links:hover {
+    color: darkblue;
     text-decoration: underline;
 }
