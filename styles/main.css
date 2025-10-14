@@ -1,3 +1,7 @@
 h2 {
     color:darkgreen;
 }
+h1:hover {
+    color:brown;
+    text-decoration: underline;
+}
