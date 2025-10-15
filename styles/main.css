@@ -10,6 +10,9 @@ body {
 }
 h1 {
     background-color: #7f5539;
+    border-radius:10px;
+    text-align: center;
+    
 }
 .links {
     color: #03071e
@@ -22,5 +25,18 @@ li {
     font-style: italic;
 }
 table, th, td {
+    text-align:center;
     border-style: solid;
+    letter-spacing: 1px;
+    border-color: #222411ad;
+    border-width:5px;
+    border-radius: 8px;
+}
+.Block_1 {
+    background-color: #d65c2ca6;
+    border-radius: 5px;
+    width: 100%;
+    padding-bottom:1px;
+    padding-top:1px;
+    text-align: center;
 }
