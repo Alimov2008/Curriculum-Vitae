@@ -48,3 +48,17 @@ table, th, td {
 h1 a {
     color:#000000;
 }
+th {
+    background-color:white;
+    border-color:black;
+}
+td {
+    background-color:white;
+    color:black;
+    font-size:large;
+    border-color:black;
+}
+table {
+    background-color:wheat;
+    border-color:darkred;
+};
