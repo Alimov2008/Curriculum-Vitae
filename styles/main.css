@@ -1,7 +1,7 @@
 h2 {
     color:#250902;
 }
-h1:hover {
+h1 a:hover {
     color:#ede0d4;
     text-decoration: underline;
 }
@@ -15,11 +15,16 @@ h1 {
     
 }
 .links {
-    color: #03071e
+    color: #03071e;
+    font-style: italic;
 }
 .links:hover {
-    color: darkblue;
+    color: white;
     text-decoration: underline;
+    border-style:solid;
+    border-radius:5px;
+    background-color: black;
+    border-color:black;
 }
 li {
     font-style: italic;
@@ -39,4 +44,7 @@ table, th, td {
     padding-bottom:1px;
     padding-top:1px;
     text-align: center;
+}
+h1 a {
+    color:#000000;
 }
